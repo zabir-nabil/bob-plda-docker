@@ -13,6 +13,10 @@ A docker container for bob (bob.learn.em) signal processing, machine learning, a
 
 ### python
 
-```
+```python
 import bob.learn.em
+```
+
+```python
+python plda_train.py
 ```
